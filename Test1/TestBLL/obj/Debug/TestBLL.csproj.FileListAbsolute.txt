@@ -1,0 +1,4 @@
+C:\Users\Development\Documents\WORKSPACE\EXAMEN-SW\luiswhr\examen-sw\Test1\TestBLL\bin\Debug\TestBLL.dll
+C:\Users\Development\Documents\WORKSPACE\EXAMEN-SW\luiswhr\examen-sw\Test1\TestBLL\bin\Debug\TestBLL.pdb
+C:\Users\Development\Documents\WORKSPACE\EXAMEN-SW\luiswhr\examen-sw\Test1\TestBLL\obj\Debug\TestBLL.dll
+C:\Users\Development\Documents\WORKSPACE\EXAMEN-SW\luiswhr\examen-sw\Test1\TestBLL\obj\Debug\TestBLL.pdb

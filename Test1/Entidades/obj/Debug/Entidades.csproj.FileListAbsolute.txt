@@ -1,0 +1,5 @@
+C:\Users\Development\Documents\WORKSPACE\EXAMEN-SW\luiswhr\examen-sw\Test1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Development\Documents\WORKSPACE\EXAMEN-SW\luiswhr\examen-sw\Test1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Development\Documents\WORKSPACE\EXAMEN-SW\luiswhr\examen-sw\Test1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Development\Documents\WORKSPACE\EXAMEN-SW\luiswhr\examen-sw\Test1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Development\Documents\WORKSPACE\EXAMEN-SW\luiswhr\examen-sw\Test1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
